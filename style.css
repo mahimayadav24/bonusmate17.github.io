@@ -191,7 +191,8 @@ body .wrapper {
 }
 
 .bg_img .btn_new:hover {
-    background-color: rgb(247, 10, 10);
+    background-color: rgb(247, 10, 81);
+    transform: translateY(-3px);
     -webkit-transition: .3s ease-in-out;
     -o-transition: .3s ease-in-out;
     transition: .3s ease-in-out;
@@ -776,6 +777,7 @@ ol,
     -webkit-transition: .3s ease-in-out;
     -o-transition: .3s ease-in-out;
     transition: .3s ease-in-out;
+    background-color: rgba(190, 136, 28, 1);
 }
 
 .crt__text .btnpr img {
